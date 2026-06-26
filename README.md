@@ -23,3 +23,8 @@ Building modern web applications and exploring blockchain technologies.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bavani-2024-aia&theme=tokyonight&hide_border=true"/>
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bavani-2024-aia&theme=tokyo-night&hide_border=true" />
+</p>
