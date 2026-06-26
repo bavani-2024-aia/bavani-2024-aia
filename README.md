@@ -13,7 +13,7 @@ Building modern web applications while exploring blockchain technologies.
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,solidity,git,github,vscode&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,solidity&perline=8"/>
 </p>
 
 ---
@@ -45,8 +45,6 @@ Building modern web applications while exploring blockchain technologies.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/bavani-2024-aia">
-<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
 
