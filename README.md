@@ -11,3 +11,10 @@ Building modern web applications and exploring blockchain technologies.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bavani-2024-aia&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavani-2024-aia&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
