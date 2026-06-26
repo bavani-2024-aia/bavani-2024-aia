@@ -50,10 +50,3 @@ Building modern web applications while exploring blockchain technologies.
 </a>
 </p>
 
----
-
-<h2 align="center">🐍 Snake Contribution Grid</h2>
-<p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Streak Snake" />
-</p>
-
