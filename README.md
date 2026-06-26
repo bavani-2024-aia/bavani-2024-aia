@@ -37,38 +37,16 @@ Building modern web applications while exploring blockchain technologies.
 
 <h2 align="center">🌐 LET'S CONNECT</h2>
 
-<table align="center">
-<tr>
-
-<td align="center" width="220">
+<p align="center">
 <a href="https://www.linkedin.com/in/bavani-mahendran-4a7a2b314">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
-<b>LinkedIn</b><br>
-<sub>/in/bavani-mahendran</sub>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</td>
 
-<td align="center" width="220">
 <a href="https://github.com/bavani-2024-aia">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-<b>GitHub</b><br>
-<sub>@bavani-2024-aia</sub>
+<img src="https://img.shields.io/badge/GitHub-@bavani--2024--aia-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</td>
 
-<td align="center" width="220">
 <a href="mailto:bavanibav07@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
-<b>Email</b><br>
-<sub>bavanibav07@gmail.com</sub>
+<img src="https://img.shields.io/badge/Gmail-bavanibav07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</td>
-
-<td align="center" width="220">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-<b>VS Code</b><br>
-<sub>My Favorite Editor 💙</sub>
-</td>
-
-</tr>
-</table>
+</p>
