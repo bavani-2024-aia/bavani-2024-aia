@@ -1,9 +1,8 @@
-<h1 align="center"><code>Dream. Develop. Deliver.</code> 🚀</h1>
-
+```markdown
 <h3 align="center">Full Stack Developer • Blockchain Enthusiast</h3>
 
 <p align="center">
-Building modern web applications while exploring blockchain and Web3 technologies.
+Building modern web applications while exploring blockchain technologies.
 </p>
 
 ---
@@ -48,7 +47,4 @@ Building modern web applications while exploring blockchain and Web3 technologie
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+```
