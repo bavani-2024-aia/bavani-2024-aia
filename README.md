@@ -37,6 +37,21 @@ Building modern web applications while exploring blockchain technologies.
 
 <h3 align="center">🌐 LET'S CONNECT</h3>
 
-| <img src="https://shields.io" width="100"> | <img src="https://shields.io" width="90"> | <img src="https://shields.io" width="80"> | <img src="https://shields.io" width="100"> |
-| :---: | :---: | :---: | :---: |
-| [**/in/bavani-mahendran**](https://linkedin.com) | [**@bavani-2024-aia**](https://github.com) | [**bavanibav07@gmail.com**](mailto:bavanibav07@gmail.com) | Coming Soon ✨ |
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="220" height="100">
+      <img src="https://shields.io" /><br/><br/>
+      <a href="https://linkedin.com">/in/bavani-mahendran</a>
+    </td>
+    <td align="center" width="220" height="100">
+      <img src="https://shields.io" /><br/><br/>
+      <a href="https://github.com">@bavani-2024-aia</a>
+    </td>
+    <td align="center" width="220" height="100">
+      <img src="https://shields.io" /><br/><br/>
+      <a href="mailto:bavanibav07@gmail.com">bavanibav07@gmail.com</a>
+    </td>
+  </tr>
+</table>
+</p>
