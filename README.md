@@ -18,3 +18,8 @@ Building modern web applications and exploring blockchain technologies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bavani-2024-aia&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavani-2024-aia&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bavani-2024-aia&theme=tokyonight&hide_border=true"/>
+</p>
