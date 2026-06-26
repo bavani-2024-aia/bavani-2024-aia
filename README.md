@@ -36,42 +36,7 @@ Building modern web applications while exploring blockchain technologies.
 ---
 
 <h3 align="center">🌐 LET'S CONNECT</h3>
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <!-- LinkedIn Card -->
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <a href="https://linkedin.com" target="_blank" style="text-decoration: none; color: white;">
-          <img src="https://shields.io" valign="middle"/>
-          <br/><small style="color: #8b949e;">/in/bavani-mahendran</small>
-        </a>
-      </td>
-      <!-- GitHub Card -->
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <a href="https://github.com" target="_blank" style="text-decoration: none; color: white;">
-          <img src="https://shields.io" valign="middle"/>
-          <br/><small style="color: #8b949e;">@bavani-2024-aia</small>
-        </a>
-      </td>
-      <!-- Email Card -->
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <a href="mailto:bavanibav07@gmail.com" style="text-decoration: none; color: white;">
-          <img src="https://shields.io" valign="middle"/>
-          <br/><small style="color: #8b949e;">bavanibav07@gmail.com</small>
-        </a>
-      </td>
-      <!-- VS Code Card -->
-      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
-        <div style="color: white;">
-          <img src="https://shields.io" valign="middle"/>
-          <br/><small style="color: #8b949e;">Coming Soon ✨</small>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| <img src="https://shields.io" width="100"> | <img src="https://shields.io" width="90"> | <img src="https://shields.io" width="80"> | <img src="https://shields.io" width="100"> |
+| :---: | :---: | :---: | :---: |
+| [**/in/bavani-mahendran**](https://linkedin.com) | [**@bavani-2024-aia**](https://github.com) | [**bavanibav07@gmail.com**](mailto:bavanibav07@gmail.com) | Coming Soon ✨ |
