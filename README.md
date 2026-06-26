@@ -35,18 +35,43 @@ Building modern web applications while exploring blockchain technologies.
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
-
+<h3 align="center">🌐 LET'S CONNECT</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bavani-mahendran-4a7a2b314">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bavanibav07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bavani-2024-aia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <!-- LinkedIn Card -->
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <a href="https://linkedin.com" target="_blank" style="text-decoration: none; color: white;">
+          <img src="https://shields.io" valign="middle"/>
+          <br/><small style="color: #8b949e;">/in/bavani-mahendran</small>
+        </a>
+      </td>
+      <!-- GitHub Card -->
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <a href="https://github.com" target="_blank" style="text-decoration: none; color: white;">
+          <img src="https://shields.io" valign="middle"/>
+          <br/><small style="color: #8b949e;">@bavani-2024-aia</small>
+        </a>
+      </td>
+      <!-- Email Card -->
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <a href="mailto:bavanibav07@gmail.com" style="text-decoration: none; color: white;">
+          <img src="https://shields.io" valign="middle"/>
+          <br/><small style="color: #8b949e;">bavanibav07@gmail.com</small>
+        </a>
+      </td>
+      <!-- VS Code Card -->
+      <td bgcolor="#0d1117" style="border: 1px solid #30363d; border-radius: 6px; padding: 15px;">
+        <div style="color: white;">
+          <img src="https://shields.io" valign="middle"/>
+          <br/><small style="color: #8b949e;">Coming Soon ✨</small>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
