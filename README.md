@@ -37,16 +37,10 @@ Building modern web applications while exploring blockchain technologies.
 
 <h2 align="center">🌐 LET'S CONNECT</h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/bavani-mahendran-4a7a2b314">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://github.com/bavani-2024-aia">
-<img src="https://img.shields.io/badge/GitHub-@bavani--2024--aia-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| 💼 LinkedIn | 🐙 GitHub | 📧 Email |
+|:-----------:|:---------:|:---------:|
+| <a href="https://www.linkedin.com/in/bavani-mahendran-4a7a2b314">Bavani Mahendran</a> | <a href="https://github.com/bavani-2024-aia">@bavani-2024-aia</a> | <a href="mailto:bavanibav07@gmail.com">bavanibav07@gmail.com</a> |
 
-<a href="mailto:bavanibav07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bavanibav07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+</div>
