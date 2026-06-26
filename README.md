@@ -34,24 +34,19 @@ Building modern web applications while exploring blockchain technologies.
 </p>
 
 ---
-
-<h3 align="center">🌐 LET'S CONNECT</h3>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<table align="center">
-  <tr>
-    <td align="center" width="220" height="100">
-      <img src="https://shields.io" /><br/><br/>
-      <a href="https://linkedin.com">/in/bavani-mahendran</a>
-    </td>
-    <td align="center" width="220" height="100">
-      <img src="https://shields.io" /><br/><br/>
-      <a href="https://github.com">@bavani-2024-aia</a>
-    </td>
-    <td align="center" width="220" height="100">
-      <img src="https://shields.io" /><br/><br/>
-      <a href="mailto:bavanibav07@gmail.com">bavanibav07@gmail.com</a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/bavani-mahendran-4a7a2b314">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bavanibav07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/bavani-2024-aia">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 </p>
+
