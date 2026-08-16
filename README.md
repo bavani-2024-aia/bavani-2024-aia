@@ -21,8 +21,8 @@ Building modern web applications while exploring blockchain technologies.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bavani-2024-aia&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavani-2024-aia&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bavani-2024-aia&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavani-2024-aia&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
